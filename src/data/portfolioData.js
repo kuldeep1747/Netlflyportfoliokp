@@ -31,7 +31,7 @@ export const highlights = [
   {t:'Tools',c:'#a855f7',s:['Git','GitHub','Postman','VS Code']},
 ];
 export const experience = [
-  {company:'Votive Technologies Pvt. Ltd.',role:'Laravel Developer',period:'Feb 2026 – Present',desc:'Working on enterprise web applications using Laravel, MySQL, REST APIs and modern web technologies. Involved in backend development, API development, database integration, business logic and application enhancements.',tech:['Laravel','PHP','MySQL','REST APIs','JavaScript']},
+  {company:'Votive Technologies Pvt. Ltd.',role:'Full-Stack Developer',period:'Feb 2026 – Present',desc:'Working on enterprise web applications using Laravel, MySQL, REST APIs and modern web technologies. Involved in backend development, API development, database integration, business logic and application enhancements.',tech:['Laravel','PHP','MySQL','REST APIs','JavaScript']},
   {company:'VidyaGXP Pvt. Ltd.',role:'Laravel Developer',period:'Mar 2024 – Jan 2026',desc:'Worked on enterprise and business applications including Quality Management, HR Management and Learning Management systems. Developed backend functionality, database logic, APIs and business workflows using Laravel and MySQL.',projects:['QMS','HRMS','LMS','Healthcare Application'],tech:['Laravel','PHP','MySQL','JavaScript','Bootstrap','jQuery','AJAX','REST APIs']},
   {company:'Niyion Coders Pvt. Ltd.',role:'PHP Developer',period:'Approx. 8 Months',desc:'Worked on PHP-based business applications and contributed to backend development, database operations and application functionality.',tech:['PHP','MySQL','HTML','CSS','JavaScript']},
 ];
